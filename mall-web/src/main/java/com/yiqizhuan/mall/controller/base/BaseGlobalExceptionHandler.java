@@ -1,7 +1,7 @@
-package com.hi8.mall.controller.base;
+package com.yiqizhuan.mall.controller.base;
 
-import com.hi8.mall.enums.ResponseCodeEnum;
-import com.hi8.mall.vo.CommonResult;
+import com.yiqizhuan.mall.enums.ResponseCodeEnum;
+import com.yiqizhuan.mall.vo.CommonResult;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;

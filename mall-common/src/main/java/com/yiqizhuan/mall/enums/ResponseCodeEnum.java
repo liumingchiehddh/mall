@@ -1,4 +1,4 @@
-package com.hi8.mall.enums;
+package com.yiqizhuan.mall.enums;
 
 /**
  * @Author: liumingchieh

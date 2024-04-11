@@ -1,7 +1,7 @@
-package com.hi8.mall.mapper;
+package com.yiqizhuan.mall.mapper;
 
-import com.hi8.mall.model.User;
-import com.hi8.mall.model.UserExample;
+import com.yiqizhuan.mall.model.User;
+import com.yiqizhuan.mall.model.UserExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 

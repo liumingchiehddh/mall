@@ -1,7 +1,6 @@
-package com.hi8.mall.controller.base;
+package com.yiqizhuan.mall.controller.base;
 
-import com.hi8.mall.vo.CommonResult;
-import org.springframework.web.bind.annotation.RestController;
+import com.yiqizhuan.mall.vo.CommonResult;
 
 /**
  * @Author: liumingchieh

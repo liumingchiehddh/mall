@@ -1,4 +1,4 @@
-package com.hi8.mall.model;
+package com.yiqizhuan.mall.model;
 
 import java.io.Serializable;
 

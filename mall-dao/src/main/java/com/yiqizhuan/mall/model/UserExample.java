@@ -1,4 +1,4 @@
-package com.hi8.mall.model;
+package com.yiqizhuan.mall.model;
 
 import java.util.ArrayList;
 import java.util.List;

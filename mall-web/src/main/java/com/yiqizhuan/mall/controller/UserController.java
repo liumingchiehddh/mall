@@ -1,10 +1,10 @@
-package com.hi8.mall.controller;
+package com.yiqizhuan.mall.controller;
 
-import com.hi8.mall.controller.base.BaseController;
-import com.hi8.mall.mapper.UserDAO;
-import com.hi8.mall.model.User;
-import com.hi8.mall.model.UserExample;
-import com.hi8.mall.vo.CommonResult;
+import com.yiqizhuan.mall.controller.base.BaseController;
+import com.yiqizhuan.mall.mapper.UserDAO;
+import com.yiqizhuan.mall.model.User;
+import com.yiqizhuan.mall.model.UserExample;
+import com.yiqizhuan.mall.vo.CommonResult;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

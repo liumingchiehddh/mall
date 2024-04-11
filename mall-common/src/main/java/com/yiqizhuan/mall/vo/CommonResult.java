@@ -1,6 +1,6 @@
-package com.hi8.mall.vo;
+package com.yiqizhuan.mall.vo;
 
-import com.hi8.mall.enums.ResponseCodeEnum;
+import com.yiqizhuan.mall.enums.ResponseCodeEnum;
 
 import java.io.Serializable;
 
